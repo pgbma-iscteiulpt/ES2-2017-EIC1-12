@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="2" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/jpmaa1-iscteiulpt/ES2-2017-EIC1-12-MiniTrader.git"/>
+		<item value="https://github.com/jpmaa1-iscteiulpt/ES2-2017-EIC1-12-MiniTrader"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="alc &lt;alc@172.17.17.92&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="jpmaa1-iscteiulpt &lt;joaopedroalmeida21@gmail.com&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="666" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="458" key="DIALOG_HEIGHT"/>
+		<item value="343" key="DIALOG_X_ORIGIN"/>
+		<item value="116" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item value="657" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="295" key="DIALOG_HEIGHT"/>
+		<item value="363" key="DIALOG_X_ORIGIN"/>
+		<item value="181" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\geral\Desktop\Faculdade\eclipse\workplace\ESII\ES2-2017-EIC1-12-MiniTrader\.git">
+			<item value="true"/>
+			<item value="jpmaa1-iscteiulpt &lt;joaopedroalmeida21@gmail.com&gt;"/>
+			<item value="Merge branch &apos;master&apos; of https://github.com/jpmaa1-iscteiulpt/ES2-2017-EIC1-12-MiniTrader"/>
+			<item value="jpmaa1-iscteiulpt &lt;joaopedroalmeida21@gmail.com&gt;"/>
+			<item value="2af0c9b5d8184f0a289d86b93781e5ec897485a4"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="true" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
